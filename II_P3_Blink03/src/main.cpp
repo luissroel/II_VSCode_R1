@@ -83,7 +83,7 @@ if(reading!=LstBSTD){//ÚLTIMO ESTADO DEL BOTON DEFINIDO
 LstBSTD = reading;
 funcSTD = funcSTD %NBSTATE;
 }
- }//////////////////////////////////////
+ }
 
  
 
